@@ -5,4 +5,15 @@
         <item name="android:translationZ">1dp</item>
         <item name="android:textAllCaps">true</item>
     </style>
+    <dimen name="gesture_scroll_output_size">200dp</dimen>
+    <dimen name="out_of_view_scroll_size">1200dp</dimen>
+    <dimen name="adf_logo">320dp</dimen>
+    <dimen name="Large_button_height">60dp</dimen>
+    <dimen name="mid_font_size">24sp</dimen>
+    <dimen name="small_font_size">20sp</dimen>
+    <dimen name="xl_font_size">42sp</dimen>
+    <dimen name="large_font_size">30sp</dimen>
+    <dimen name="large_margin">88dp</dimen>
+    <dimen name="mid_margin">44dp</dimen>
+    <dimen name="small_margin">22dp</dimen>
 </resources>
